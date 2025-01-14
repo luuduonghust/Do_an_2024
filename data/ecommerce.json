@@ -1,0 +1,752 @@
+[
+  {
+    "category": ["Home", "tham"],
+    "brand": "Armstrong",
+    "name": "Thảm trải phòng ngủ sợi tổng hợp êm ái YN-SGL09",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/10/tham-trai-phong-ngu-soi-tong-hop-em-ai-yn-sgl09-3-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/10/tham-trai-phong-ngu-soi-tong-hop-em-ai-yn-sgl09-3-430x430.jpg",
+    "price": "830381 VNĐ",
+    "description": "Thảm lông mềm mại, mang lại cảm giác êm ái mỗi khi bước chân, phù hợp cho mọi không gian từ phòng khách đến phòng ngủ.",
+    "informations": "Thảm trải sàn cao cấp được làm từ chất liệu mềm mại, mang lại cảm giác thoải mái khi sử dụng."
+  },
+  {
+    "category": ["Home", "tham"],
+    "brand": "YT-T1",
+    "name": "Thảm trang trí vệt màu mờ ảo nghệ thuật YN-SGL08",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/10/tham-trang-tri-vet-mau-mo-ao-nghe-thuat-yn-sgl08-5-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/10/tham-trang-tri-vet-mau-mo-ao-nghe-thuat-yn-sgl08-5-430x430.jpg",
+    "price": "889973 VNĐ",
+    "description": "Thảm trải sàn sang trọng, làm từ chất liệu cao cấp, giúp không gian thêm phần tinh tế và ấm cúng.",
+    "informations": "Có khả năng cách âm tốt, giúp giảm tiếng ồn và tạo không gian yên tĩnh cho căn phòng."
+  },
+  {
+    "category": ["Home", "tham"],
+    "brand": "YT-T1",
+    "name": "Thảm cao su tấm hoa văn đốm cho phòng gym TF1015",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/07/tham-cao-su-tam-hoa-van-dom-cho-phong-gym-tf1015-6-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/07/tham-cao-su-tam-hoa-van-dom-cho-phong-gym-tf1015-6-430x430.jpg",
+    "price": "864359 VNĐ",
+    "description": "Thảm sợi tự nhiên thân thiện với môi trường, thiết kế đơn giản, tạo điểm nhấn độc đáo cho căn phòng.",
+    "informations": "Giữ ấm cho không gian trong mùa lạnh, tạo cảm giác ấm cúng và dễ chịu."
+  },
+  {
+    "category": ["Home", "tham"],
+    "brand": "YT-T1",
+    "name": "Thảm cao su cuộn phòng gym đốm EPDM pha 1m2 TEPSB10",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/08/Tham-cao-su-cuon-phong-gym-dom-EPDM-pha-0.25m2-TEPSB05-4-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/08/Tham-cao-su-cuon-phong-gym-dom-EPDM-pha-0.25m2-TEPSB05-4-430x430.jpg",
+    "price": "850210 VNĐ",
+    "description": "Thảm nỉ chống trơn, an toàn khi sử dụng, phù hợp cho gia đình có trẻ nhỏ và người cao tuổi.",
+    "informations": "Đa dạng về màu sắc và họa tiết, phù hợp với nhiều phong cách trang trí nội thất."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn sợi tổng hợp hoa văn hiện đại NXS66317",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2021/11/Screenshot_17-10-430x430.png",
+    "images": "https://flexhouse.vn/wp-content/uploads/2021/11/Screenshot_17-10-430x430.png",
+    "price": "995965 VNĐ",
+    "description": "Thảm len dày dặn, cách nhiệt tốt, giúp giữ ấm cho căn phòng vào mùa đông.",
+    "informations": "Dễ dàng vệ sinh, chỉ cần hút bụi hoặc giặt nhẹ nhàng để duy trì độ mới."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn văn phòng sọc nổi đa màu ZC3006",
+    "brand": "YT-T1",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2023/09/Tham-trai-san-van-phong-soc-noi-da-mau-ZC3006-19-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2023/09/Tham-trai-san-van-phong-soc-noi-da-mau-ZC3006-19-430x430.jpg",
+    "price": "871163 VNĐ",
+    "description": "Thảm họa tiết cổ điển, mang nét đẹp truyền thống, dễ dàng phối hợp với nội thất gỗ.",
+    "informations": "Thảm trải sàn có độ bền cao, có thể sử dụng lâu dài mà không sợ hỏng."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải phòng bếp hiện đại cao cấp TC3615",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/09/Tham-trai-phong-bep-hien-dai-cao-cap-TC3615-5-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/09/Tham-trai-phong-bep-hien-dai-cao-cap-TC3615-5-430x430.jpg",
+    "price": "813694 VNĐ",
+    "description": "Thảm hoa văn hiện đại, tạo phong cách năng động, phù hợp với không gian sống trẻ trung.",
+    "informations": "Chất liệu chống tĩnh điện, an toàn cho sức khỏe và không gây kích ứng."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn trang nhã phong cách Maroc TBD0364",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/06/Tham-trai-san-trang-nha-phong-cach-Maroc-TBD0364-1-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/06/Tham-trai-san-trang-nha-phong-cach-Maroc-TBD0364-1-430x430.jpg",
+    "price": "859150 VNĐ",
+    "description": "Thảm lông xù siêu mềm, tạo cảm giác dễ chịu khi ngồi hoặc nằm, lý tưởng cho phòng ngủ và phòng khách.",
+    "informations": "Thích hợp cho nhiều không gian như phòng khách, phòng ngủ, văn phòng làm việc."
+  },
+  {
+    "category": ["Home", "tham"],
+    "brand": "Armstrong",
+    "name": "Thảm trải sàn văn phòng cao cấp nhiều màu SP6237",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2023/10/Tham-trai-san-van-phong-hinh-vuong-nhieu-mau-SP6237-18-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2023/10/Tham-trai-san-van-phong-hinh-vuong-nhieu-mau-SP6237-18-430x430.jpg",
+    "price": "858896 VNĐ",
+    "description": "Thảm trải sàn dễ vệ sinh, không bám bụi, giữ cho không gian luôn sạch sẽ và thoáng mát.",
+    "informations": "Độ dày của thảm giúp tạo độ êm ái khi đi lại, bảo vệ bàn chân khỏi sàn lạnh."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn nhà bếp chống thấm chống trượt TYC.K001",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2023/09/Tham-trai-san-nha-bep-chong-tham-chong-truot-TYC.K001-2-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2023/09/Tham-trai-san-nha-bep-chong-tham-chong-truot-TYC.K001-2-430x430.jpg",
+    "price": "960854 VNĐ",
+    "description": "Thảm chống ồn, giúp giảm tiếng ồn khi di chuyển, giữ cho không gian yên tĩnh hơn.",
+    "informations": "Có thể cuộn lại dễ dàng, thuận tiện cho việc di chuyển và lưu trữ."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn sợi tổng hợp hiện đại kiểu Mỹ NBT001",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2021/07/Screenshot_16-25-430x430.png",
+    "images": "https://flexhouse.vn/wp-content/uploads/2021/07/Screenshot_16-25-430x430.png",
+    "price": "872577 VNĐ",
+    "description": "Thảm màu trung tính, dễ dàng kết hợp với mọi phong cách nội thất, mang lại cảm giác thanh lịch.",
+    "informations": "Chống trơn trượt tốt, giúp đảm bảo an toàn khi di chuyển trên bề mặt thảm."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn phòng ngủ đáng yêu cho bé TBD5070",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/06/Tham-trai-san-phong-ngu-dang-yeu-cho-be-TBD5070-5-600x600.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/06/Tham-trai-san-phong-ngu-dang-yeu-cho-be-TBD5070-5-600x600.jpg",
+    "price": "863986 VNĐ",
+    "description": "Thảm lông cừu tự nhiên, mềm mịn và ấm áp, phù hợp cho những ngày se lạnh.",
+    "informations": "Khả năng kháng khuẩn giúp ngăn ngừa vi khuẩn phát triển, giữ không gian sạch sẽ."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải phòng bếp PVC chống trượt GF017",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/06/Tham-trai-phong-bep-bang-da-chong-tham-truot-cao-cap-GF017-11.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/06/Tham-trai-phong-bep-bang-da-chong-tham-truot-cao-cap-GF017-11.jpg",
+    "price": "917956 VNĐ",
+    "description": "Thảm chống trượt mặt dưới, giúp thảm luôn cố định, an toàn khi sử dụng.",
+    "informations": "Sử dụng công nghệ nhuộm bền màu, giữ được màu sắc tươi mới qua thời gian."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm lót sàn sợi Polyester chống thấm tốt hình hoa LJ-0701G2",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/03/LJ-0701G2-2-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/03/LJ-0701G2-2-430x430.jpg",
+    "price": "911307 VNĐ",
+    "description": "Thảm sợi nhân tạo bền bỉ, giữ màu sắc lâu dài, không lo bạc màu theo thời gian.",
+    "informations": "Thảm trải sàn cao cấp thích hợp cho cả gia đình có trẻ em và người lớn tuổi."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm sàn hình chữ nhật họa tiết hình học ấn tượng TBD8406",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/03/TBD8406-1-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/03/TBD8406-1-430x430.jpg",
+    "price": "867266 VNĐ",
+    "description": "Thảm sợi tổng hợp chống nước, dễ vệ sinh, phù hợp cho phòng bếp và phòng tắm.",
+    "informations": "Cấu trúc sợi bền vững, chống mài mòn, chịu được tần suất sử dụng cao."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn phòng khách hoa văn hình học sáng tạo LY6150",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2023/11/Tham-trai-san-phong-khach-hoa-van-hinh-hoc-sang-tao-LY6150-6.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2023/11/Tham-trai-san-phong-khach-hoa-van-hinh-hoc-sang-tao-LY6150-6.jpg",
+    "price": "805656 VNĐ",
+    "description": "Thảm trải sàn hoa văn bohemian, phong cách phóng khoáng, mang đậm nét cá tính riêng.",
+    "informations": "Thiết kế hiện đại, giúp không gian trở nên sang trọng và ấn tượng hơn."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn văn phòng thời trang chống trượt FCT20",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2023/09/Tham-trai-san-van-phong-thoi-trang-chong-truot-FCT20-8-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2023/09/Tham-trai-san-van-phong-thoi-trang-chong-truot-FCT20-8-430x430.jpg",
+    "price": "886439 VNĐ",
+    "description": "Thảm màu pastel nhẹ nhàng, tạo không gian tươi sáng, thích hợp cho phòng ngủ.",
+    "informations": "Sản phẩm thân thiện với môi trường, không chứa hóa chất độc hại."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn trang trí hiện đại trẻ trung TBD0932",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/06/Tham-trai-san-trang-tri-hien-dai-tre-trung-TBD0932-1-600x600.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/06/Tham-trai-san-trang-tri-hien-dai-tre-trung-TBD0932-1-600x600.jpg",
+    "price": "843803 VNĐ",
+    "description": "Thảm sợi len dệt thủ công, mang vẻ đẹp tinh tế và chất lượng bền lâu.",
+    "informations": "Thảm trải sàn giúp phân vùng không gian trong căn phòng một cách hiệu quả."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sofa màu be nghệ thuật độc đáo YN-MH02",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/09/tham-trai-sofa-mau-be-nghe-thuat-doc-dao-yn-mh02-2.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/09/tham-trai-sofa-mau-be-nghe-thuat-doc-dao-yn-mh02-2.jpg",
+    "price": "817068 VNĐ",
+    "description": "Thảm nhung mịn cao cấp, tạo cảm giác sang trọng, lý tưởng cho không gian phòng khách.",
+    "informations": "Dễ dàng phối hợp với các món đồ nội thất khác để tạo nên sự hài hòa."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm phòng khách họa tiết ô vuông độc đáo YN-NLH33",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-phong-khach-hoa-tiet-o-vuong-doc-dao-yn-nlh33-2.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-phong-khach-hoa-tiet-o-vuong-doc-dao-yn-nlh33-2.jpg",
+    "price": "835424 VNĐ",
+    "description": "Thảm họa tiết hình học, độc đáo và sáng tạo, làm nổi bật phong cách hiện đại của căn phòng.",
+    "informations": "Thảm có độ dày vừa phải, dễ dàng lắp đặt mà không cần công cụ hỗ trợ."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trang trí họa tiết nghệ thuật YN-NLH38",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-trang-tri-hoa-tiet-nghe-thuat-yn-nlh38-1.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-trang-tri-hoa-tiet-nghe-thuat-yn-nlh38-1.jpg",
+    "price": "964126 VNĐ",
+    "description": "Thảm lông mềm mại, mang lại cảm giác êm ái mỗi khi bước chân, phù hợp cho mọi không gian từ phòng khách đến phòng ngủ.",
+    "informations": "Chất liệu mềm mại, tạo cảm giác thư giãn khi tiếp xúc, giảm căng thẳng."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm phòng khách kẻ sọc trừu tượng YN-NLH26",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-phong-khach-ke-soc-truu-tuong-yn-nlh26-1.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-phong-khach-ke-soc-truu-tuong-yn-nlh26-1.jpg",
+    "price": "899914 VNĐ",
+    "description": "Thảm trải sàn sang trọng, làm từ chất liệu cao cấp, giúp không gian thêm phần tinh tế và ấm cúng.",
+    "informations": "Thích hợp cho cả mùa đông và mùa hè, giúp điều hòa nhiệt độ sàn nhà."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trang trí phòng khách họa tiết caro YN-NLH39",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-lot-san-hoa-tiet-caro-bang-polypropylene-yn-nlh39-2.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-lot-san-hoa-tiet-caro-bang-polypropylene-yn-nlh39-2.jpg",
+    "price": "941811 VNĐ",
+    "description": "Thảm sợi tự nhiên thân thiện với môi trường, thiết kế đơn giản, tạo điểm nhấn độc đáo cho căn phòng.",
+    "informations": "Có thể được sử dụng trong các căn hộ, nhà riêng, hoặc khu vực công cộng."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm chùi chân lối ra vào chống bám bẩn MNS323",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-bong-ro-trong-nha-san-vinyl-the-thao-da-nang-dx1405-8.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-bong-ro-trong-nha-san-vinyl-the-thao-da-nang-dx1405-8.jpg",
+    "price": "868065 VNĐ",
+    "description": "Thảm nỉ chống trơn, an toàn khi sử dụng, phù hợp cho gia đình có trẻ nhỏ và người cao tuổi.",
+    "informations": "Thiết kế độc đáo, là điểm nhấn nổi bật cho bất kỳ không gian nào."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn dạng tròn phong cách Bắc Âu MNS775",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-nhua-trai-san-dang-cuon-benh-vien-san-bay-tpvct-4.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-nhua-trai-san-dang-cuon-benh-vien-san-bay-tpvct-4.jpg",
+    "price": "944668 VNĐ",
+    "description": "Thảm len dày dặn, cách nhiệt tốt, giúp giữ ấm cho căn phòng vào mùa đông.",
+    "informations": "Lớp đế chống thấm giúp bảo vệ sàn nhà khỏi ẩm mốc và nước thấm."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm trải sàn văn phòng hình tròn sang trọng MNS773",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-nhua-chong-truot-san-yoga-san-pilates-tpsnp-7.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2024/08/tham-nhua-chong-truot-san-yoga-san-pilates-tpsnp-7.jpg",
+    "price": "916510 VNĐ",
+    "description": "Thảm họa tiết cổ điển, mang nét đẹp truyền thống, dễ dàng phối hợp với nội thất gỗ.",
+    "informations": "Thảm trải sàn nhẹ nhàng, dễ dàng di chuyển và lắp đặt ở nhiều nơi."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm chống trượt nhà tắm hoạ tiết tối giản MNS756",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2023/08/STD-430x430.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2023/08/STD-430x430.jpg",
+    "price": "985872 VNĐ",
+    "description": "Thảm hoa văn hiện đại, tạo phong cách năng động, phù hợp với không gian sống trẻ trung.",
+    "informations": "Giá cả hợp lý, phù hợp với nhiều phân khúc khách hàng."
+  },
+  {
+    "category": ["Home", "tham"],
+    "name": "Thảm chùi chân nhà tắm chống trượt bùn tảo cát MNS724",
+    "brand": "Armstrong",
+    "thumb": "https://flexhouse.vn/wp-content/uploads/2022/07/Screenshot_4-100x100.jpg",
+    "images": "https://flexhouse.vn/wp-content/uploads/2022/07/Screenshot_4-100x100.jpg",
+    "price": "924217 VNĐ",
+    "description": "Thảm lông xù siêu mềm, tạo cảm giác dễ chịu khi ngồi hoặc nằm, lý tưởng cho phòng ngủ và phòng khách.",
+    "informations": "Mang lại phong cách mới mẻ, nâng tầm không gian sống của bạn."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 15x30",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-1530.png?v=1638177440640",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-1530.png?v=1638177440640",
+    "price": "110000 VNĐ",
+    "description": "Nhôm hệ cao cấp, bền bỉ, chống ăn mòn, hoàn hảo cho mọi loại công trình xây dựng.",
+    "informations": "Nhôm hệ cao cấp, bền bỉ, chống ăn mòn, hoàn hảo cho mọi loại công trình xây dựng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 15x60",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-1560.png?v=1638177629727",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-1560.png?v=1638177629727",
+    "price": "220000 VNĐ",
+    "description": "Nhôm hệ thiết kế sang trọng, tính năng cách nhiệt cao, phù hợp cho không gian hiện đại.",
+    "informations": "Nhôm hệ thiết kế sang trọng, tính năng cách nhiệt cao, phù hợp cho không gian hiện đại."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 20x20",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-2020.png?v=1638177705370",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-2020.png?v=1638177705370",
+    "price": "85500 VNĐ",
+    "description": "Sản phẩm nhôm hệ đạt tiêu chuẩn, bề mặt bóng đẹp, không gỉ, dễ dàng vệ sinh bảo dưỡng.",
+    "informations": "Sản phẩm nhôm hệ đạt tiêu chuẩn, bề mặt bóng đẹp, không gỉ, dễ dàng vệ sinh bảo dưỡng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 20x40A",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-2040a.png?v=1638177906357",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-2040a.png?v=1638177906357",
+    "price": "223000 VNĐ",
+    "description": "Vật liệu nhôm hệ với độ dày lý tưởng, tạo sự an toàn, chắc chắn cho khung cửa, vách ngăn.",
+    "informations": "Vật liệu nhôm hệ với độ dày lý tưởng, tạo sự an toàn, chắc chắn cho khung cửa, vách ngăn."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 20x40",
+    "brand": "VietPhap",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-2040.png?v=1638178047273",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-2040.png?v=1638178047273",
+    "price": "135000 VNĐ",
+    "description": "Nhôm hệ thân thiện với môi trường, tái sử dụng cao, tiết kiệm chi phí cho các công trình lớn.",
+    "informations": "Nhôm hệ thân thiện với môi trường, tái sử dụng cao, tiết kiệm chi phí cho các công trình lớn."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 20x60",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-2060.png?v=1638178169470",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-2060.png?v=1638178169470",
+    "price": "212000 VNĐ",
+    "description": "Bề mặt nhôm hệ xử lý anodizing, chống oxi hóa tốt, duy trì độ bền đẹp lâu dài.",
+    "informations": "Bề mặt nhôm hệ xử lý anodizing, chống oxi hóa tốt, duy trì độ bền đẹp lâu dài."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40DF",
+    "brand": "VietPhap",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-4040df.png?v=1638179635993",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-4040df.png?v=1638179635993",
+    "price": "216000 VNĐ",
+    "description": "Nhôm hệ cách âm tốt, đảm bảo sự yên tĩnh, thoải mái cho không gian sống và làm việc.",
+    "informations": "Nhôm hệ cách âm tốt, đảm bảo sự yên tĩnh, thoải mái cho không gian sống và làm việc."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x30A",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030a.png?v=1638181722663",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030a.png?v=1638181722663",
+    "price": "145000 VNĐ",
+    "description": "Thiết kế nhôm hệ tinh tế, phù hợp với các công trình yêu cầu cao về thẩm mỹ và chất lượng.",
+    "informations": "Thiết kế nhôm hệ tinh tế, phù hợp với các công trình yêu cầu cao về thẩm mỹ và chất lượng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x30",
+    "brand": "VietPhap",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030.png?v=1638181833210",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030.png?v=1638181833210",
+    "price": "134500 VNĐ",
+    "description": "Sản phẩm nhôm hệ có khả năng chịu lực cao, giúp bảo vệ công trình trước thời tiết khắc nghiệt.",
+    "informations": "Sản phẩm nhôm hệ có khả năng chịu lực cao, giúp bảo vệ công trình trước thời tiết khắc nghiệt."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x30F",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030f.png?v=1638182065057",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030f.png?v=1638182065057",
+    "price": "125000 VNĐ",
+    "description": "Nhôm hệ lắp đặt nhanh chóng, dễ dàng bảo trì, đáp ứng mọi nhu cầu kiến trúc và xây dựng.",
+    "informations": "Nhôm hệ lắp đặt nhanh chóng, dễ dàng bảo trì, đáp ứng mọi nhu cầu kiến trúc và xây dựng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x30H",
+    "brand": "VietPhap",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3030h.png?v=1638182205330",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3030h.png?v=1638182205330",
+    "price": "129000 VNĐ",
+    "description": "Nhôm hệ có trọng lượng nhẹ, giảm tải trọng công trình, tiết kiệm chi phí xây dựng hiệu quả.",
+    "informations": "Nhôm hệ có trọng lượng nhẹ, giảm tải trọng công trình, tiết kiệm chi phí xây dựng hiệu quả."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x30XL",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030xl.png?v=1638182363107",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3030xl.png?v=1638182363107",
+    "price": "108000 VNĐ",
+    "description": "Màu sắc nhôm hệ đa dạng, từ trắng bạc đến đen mờ, đáp ứng mọi phong cách thiết kế.",
+    "informations": "Màu sắc nhôm hệ đa dạng, từ trắng bạc đến đen mờ, đáp ứng mọi phong cách thiết kế."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x30E",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3030e.png?v=1638182502590",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3030e.png?v=1638182502590",
+    "price": "124000 VNĐ",
+    "description": "Nhôm hệ không chỉ bền mà còn chống cháy, an toàn cho các công trình cao tầng.",
+    "informations": "Nhôm hệ không chỉ bền mà còn chống cháy, an toàn cho các công trình cao tầng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x30U",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3030u.png?v=1638182618077",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3030u.png?v=1638182618077",
+    "price": "119000 VNĐ",
+    "description": "Sản phẩm nhôm hệ có khả năng chống ăn mòn vượt trội, bền bỉ trong môi trường ven biển.",
+    "informations": "Sản phẩm nhôm hệ có khả năng chống ăn mòn vượt trội, bền bỉ trong môi trường ven biển."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x60",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3060.png?v=1638182768490",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3060.png?v=1638182768490",
+    "price": "228500 VNĐ",
+    "description": "Thiết kế thanh nhôm hệ tối giản, mang đến phong cách hiện đại, sang trọng cho không gian.",
+    "informations": "Thiết kế thanh nhôm hệ tối giản, mang đến phong cách hiện đại, sang trọng cho không gian."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x60F",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3060f.png?v=1638182951720",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3060f.png?v=1638182951720",
+    "price": "230000 VNĐ",
+    "description": "Nhôm hệ dễ uốn cong, phù hợp cho các thiết kế cửa sổ, cửa đi, tạo điểm nhấn độc đáo.",
+    "informations": "Nhôm hệ dễ uốn cong, phù hợp cho các thiết kế cửa sổ, cửa đi, tạo điểm nhấn độc đáo."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x60H",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3060h.png?v=1638195384863",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3060h.png?v=1638195384863",
+    "price": "214000 VNĐ",
+    "description": "Sản phẩm nhôm hệ cách nhiệt tốt, giữ nhiệt trong nhà, giảm thiểu chi phí năng lượng.",
+    "informations": "Sản phẩm nhôm hệ cách nhiệt tốt, giữ nhiệt trong nhà, giảm thiểu chi phí năng lượng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x60XL",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3060xl.png?v=1638195514137",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-3060xl.png?v=1638195514137",
+    "price": "187500 VNĐ",
+    "description": "Nhôm hệ được sản xuất theo công nghệ tiên tiến, đảm bảo chất lượng và tính thẩm mỹ cao.",
+    "informations": "Nhôm hệ được sản xuất theo công nghệ tiên tiến, đảm bảo chất lượng và tính thẩm mỹ cao."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x90",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3090.png?v=1638195709903",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-3090.png?v=1638195709903",
+    "price": "367500 VNĐ",
+    "description": "Nhôm hệ với khớp nối hoàn hảo, không khe hở, nâng cao tính thẩm mỹ và cách âm hiệu quả.",
+    "informations": "Nhôm hệ với khớp nối hoàn hảo, không khe hở, nâng cao tính thẩm mỹ và cách âm hiệu quả."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 30x120",
+    "brand": "Xingfa",
+    "thumb": "https://www.nhomdinhhinh.vn/nhom-dinh-hinh",
+    "images": "https://www.nhomdinhhinh.vn/nhom-dinh-hinh",
+    "price": "466500 VNĐ",
+    "description": "Sản phẩm nhôm hệ đạt tiêu chuẩn quốc tế, bền đẹp, phù hợp với mọi loại hình kiến trúc.",
+    "informations": "Sản phẩm nhôm hệ đạt tiêu chuẩn quốc tế, bền đẹp, phù hợp với mọi loại hình kiến trúc."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40A",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040a.png?v=1638195959470",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040a.png?v=1638195959470",
+    "price": "185000 VNĐ",
+    "description": "Nhôm hệ cao cấp, bền bỉ, chống ăn mòn, hoàn hảo cho mọi loại công trình xây dựng.",
+    "informations": "Nhôm hệ cao cấp, bền bỉ, chống ăn mòn, hoàn hảo cho mọi loại công trình xây dựng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40B",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040b.png?v=1638196027320",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040b.png?v=1638196027320",
+    "price": "266000 VNĐ",
+    "description": "Nhôm hệ thiết kế sang trọng, tính năng cách nhiệt cao, phù hợp cho không gian hiện đại.",
+    "informations": "Nhôm hệ thiết kế sang trọng, tính năng cách nhiệt cao, phù hợp cho không gian hiện đại."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40D",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040d.png?v=1638196129597",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040d.png?v=1638196129597",
+    "price": "305000 VNĐ",
+    "description": "Sản phẩm nhôm hệ đạt tiêu chuẩn, bề mặt bóng đẹp, không gỉ, dễ dàng vệ sinh bảo dưỡng.",
+    "informations": "Sản phẩm nhôm hệ đạt tiêu chuẩn, bề mặt bóng đẹp, không gỉ, dễ dàng vệ sinh bảo dưỡng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40G",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040g.png?v=1638196235267",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040g.png?v=1638196235267",
+    "price": "202000 VNĐ",
+    "description": "Vật liệu nhôm hệ với độ dày lý tưởng, tạo sự an toàn, chắc chắn cho khung cửa, vách ngăn.",
+    "informations": "Vật liệu nhôm hệ với độ dày lý tưởng, tạo sự an toàn, chắc chắn cho khung cửa, vách ngăn."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40H",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040h.png?v=1638196322363",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040h.png?v=1638196322363",
+    "price": "260000 VNĐ",
+    "description": "Nhôm hệ thân thiện với môi trường, tái sử dụng cao, tiết kiệm chi phí cho các công trình lớn.",
+    "informations": "Nhôm hệ thân thiện với môi trường, tái sử dụng cao, tiết kiệm chi phí cho các công trình lớn."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40UL",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040ul.png?v=1638196397953",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040ul.png?v=1638196397953",
+    "price": "173000 VNĐ",
+    "description": "Bề mặt nhôm hệ xử lý anodizing, chống oxi hóa tốt, duy trì độ bền đẹp lâu dài.",
+    "informations": "Bề mặt nhôm hệ xử lý anodizing, chống oxi hóa tốt, duy trì độ bền đẹp lâu dài."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40U",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040u.png?v=1638196477923",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4040u.png?v=1638196477923",
+    "price": "172500 VNĐ",
+    "description": "Nhôm hệ cách âm tốt, đảm bảo sự yên tĩnh, thoải mái cho không gian sống và làm việc.",
+    "informations": "Nhôm hệ cách âm tốt, đảm bảo sự yên tĩnh, thoải mái cho không gian sống và làm việc."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x40E",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-4040e.png?v=1638196585300",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-6-4040e.png?v=1638196585300",
+    "price": "187000 VNĐ",
+    "description": "Thiết kế nhôm hệ tinh tế, phù hợp với các công trình yêu cầu cao về thẩm mỹ và chất lượng.",
+    "informations": "Thiết kế nhôm hệ tinh tế, phù hợp với các công trình yêu cầu cao về thẩm mỹ và chất lượng."
+  },
+  {
+    "category": ["Home", "nhom"],
+    "name": "Thanh nhôm 40x80A",
+    "brand": "Xingfa",
+    "thumb": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4080a.png?v=1638196688973",
+    "images": "https://bizweb.dktcdn.net/thumb/medium/100/169/807/products/vmc-8-4080a.png?v=1638196688973",
+    "price": "302000 VNĐ",
+    "description": "Sản phẩm nhôm hệ đạt tiêu chuẩn quốc tế, bền đẹp, phù hợp với mọi loại hình kiến trúc.",
+    "informations": "Sản phẩm nhôm hệ đạt tiêu chuẩn quốc tế, bền đẹp, phù hợp với mọi loại hình kiến trúc."
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch đặc Tuynel",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachdactuynel.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachdactuynel.jpg",
+    "price": "980 VNĐ",
+    "description": "205x98x55",
+    "informations": "205x98x55"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch cốt liệu tái chế",
+    "brand": "Datvietmoi",
+    "thumb": "https://lh3.googleusercontent.com/proxy/6hOtksrYlMWpezvmgwo9KlU2tWJTydLmxkxyaA4yxmfUm_tvGlQkhLd2p2xXm4-ahWKQJeP31Jejl-7PxKZ3kSRQAZshWHye8gWNQaamspc5K9chI4N8Ag",
+    "images": "https://lh3.googleusercontent.com/proxy/6hOtksrYlMWpezvmgwo9KlU2tWJTydLmxkxyaA4yxmfUm_tvGlQkhLd2p2xXm4-ahWKQJeP31Jejl-7PxKZ3kSRQAZshWHye8gWNQaamspc5K9chI4N8Ag",
+    "price": "510 VNĐ",
+    "description": "220x105x60",
+    "informations": "220x105x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch đặc cốt liệu",
+    "brand": "HoangGia",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachdaccotlieu.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachdaccotlieu.jpg",
+    "price": "780 VNĐ",
+    "description": "220x105x60",
+    "informations": "220x105x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch lỗ cốt liệu",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachlocotlieu.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachlocotlieu.jpg",
+    "price": "780 VNĐ",
+    "description": "220x105x60",
+    "informations": "220x105x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch đặc Thạch Bàn",
+    "brand": "Datvietmoi",
+    "thumb": "https://mayxuctruonghoa.com/uploads/gachdacthachban-1.png",
+    "images": "https://mayxuctruonghoa.com/uploads/gachdacthachban-1.png",
+    "price": "1750 VNĐ",
+    "description": "205x98x55",
+    "informations": "205x98x55"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch Tuynel 2 lỗ",
+    "brand": "HoangGia",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachtuynel02lo-1-1.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachtuynel02lo-1-1.jpg",
+    "price": "990 VNĐ",
+    "description": "205x98x55",
+    "informations": "205x98x55"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch không trát 2 lỗ",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/02/gach2lokhongtrat-1.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/02/gach2lokhongtrat-1.jpg",
+    "price": "2900 VNĐ",
+    "description": "210x100x60",
+    "informations": "210x100x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch không trát 2 lỗ sẫm",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat2losam.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat2losam.jpg",
+    "price": "6200 VNĐ",
+    "description": "210x100x60",
+    "informations": "210x100x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch đặc không trát xám",
+    "brand": "HoangGia",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtratA1xam-1.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtratA1xam-1.jpg",
+    "price": "4100 VNĐ",
+    "description": "210x100x60",
+    "informations": "210x100x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch đặc không trát sẫm",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachdackhongtratxamden.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachdackhongtratxamden.jpg",
+    "price": "6200 VNĐ",
+    "description": "210x100x60",
+    "informations": "210x100x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch đặc không trát khổ lớn",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtratkholon-2.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtratkholon-2.jpg",
+    "price": "26.500 VNĐ",
+    "description": "300x150x70",
+    "informations": "300x150x70"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch không trát 3 lỗ",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat_3lo.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat_3lo.jpg",
+    "price": "5600 VNĐ",
+    "description": "210x100x60",
+    "informations": "210x100x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch không trát 11 lỗ xám",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat_11lo.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat_11lo.jpg",
+    "price": "3300 VNĐ",
+    "description": "210x100x60",
+    "informations": "210x100x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch không trát 11 lỗ sẫm",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat11losam.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/07/gachkhongtrat11losam.jpg",
+    "price": "6200 VNĐ",
+    "description": "210x100x60",
+    "informations": "210x100x60"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch 6 lỗ vuông",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/02/gach6lovuong-1.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/02/gach6lovuong-1.jpg",
+    "price": "3500 VNĐ",
+    "description": "220x150x105",
+    "informations": "220x150x105"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch 6 lỗ tròn",
+    "brand": "Datvietmoi",
+    "thumb": "https://gachxay.net/wp-content/uploads/2022/02/gach6lotron-1.jpg",
+    "images": "https://gachxay.net/wp-content/uploads/2022/02/gach6lotron-1.jpg",
+    "price": "3600 VNĐ",
+    "description": "220x150x105",
+    "informations": "220x150x105"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Ngói sóng",
+    "brand": "Datvietmoi",
+    "thumb": "https://lh4.googleusercontent.com/proxy/1fgmkk5quhG0MtXV3RpwrZVyFVLMK6jrf6FbmQpqsXb-2yVGGKFqk9KkbHbzn-NnzJeCiK9cBd_upN7un11F92A4yZwazxQqll6bbHj19JXKXShjVFQrCablBtsN",
+    "images": "https://lh4.googleusercontent.com/proxy/1fgmkk5quhG0MtXV3RpwrZVyFVLMK6jrf6FbmQpqsXb-2yVGGKFqk9KkbHbzn-NnzJeCiK9cBd_upN7un11F92A4yZwazxQqll6bbHj19JXKXShjVFQrCablBtsN",
+    "price": "14.800 VNĐ",
+    "description": "305x400x13",
+    "informations": "305x400x13"
+  },
+  {
+    "category": ["Home", "gach"],
+    "name": "Gạch lát nền giả cổ",
+    "brand": "Datvietmoi",
+    "thumb": "https://bizweb.dktcdn.net/100/391/203/files/img-1013.jpg?v=1617012412676",
+    "images": "https://bizweb.dktcdn.net/100/391/203/files/img-1013.jpg?v=1617012412676",
+    "price": "14.500 VNĐ",
+    "description": "300x150x50",
+    "informations": "300x150x50"
+  }
+]
